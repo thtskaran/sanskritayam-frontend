@@ -283,11 +283,11 @@ vyakti.paricchedam()  # Output: Nama: John, Vayah: 30
 
 ## Examples
 
-You can find various example programs written in Sanskritayam in the [examples](https://github.com/thtskaran/sanskritayam/tree/main/examples) directory. These examples demonstrate different aspects of the language and serve as a starting point for learning Sanskritayam.
+You can find various example programs written in Sanskritayam in the [Examples](https://github.com/thtskaran/sanskritayam/tree/main/examples) directory. These examples demonstrate different aspects of the language and serve as a starting point for learning Sanskritayam.
 
 ## Testing
 
-To ensure the correctness and reliability of the Sanskritayam language, a comprehensive test suite is available in the [tests](https://github.com/thtskaran/sanskritayam/tree/main/tests) directory. The test suite covers various language features and helps maintain the integrity of the language implementation.
+To ensure the correctness and reliability of the Sanskritayam language, a comprehensive test suite is available in the [Tests](https://github.com/thtskaran/sanskritayam/tree/main/tests) directory. The test suite covers various language features and helps maintain the integrity of the language implementation.
 
 To run the tests, execute the following command:
 ```
