@@ -1,4 +1,4 @@
-# Sanskritayam Programming Language
+# Sanskritayam 
 
 Sanskritayam is a fun and experimental programming language inspired by Sanskrit, the ancient language of India. This project was created based on a viral meme from last year, where a group of aunties were discussing the idea of making Sanskrit a coding language. As a joke, my friend [Pinakkk](https://github.com/pinakkk) and I [Karan](https://github.com/thtskaran) thought of turning this idea into reality, and thus, Sanskritayam was born!
 
