@@ -1,0 +1,1 @@
+import{_ as a,c as t,o as e,a2 as n}from"./chunks/framework.CQ12TVIp.js";const m=JSON.parse('{"title":"Sanskritayam","description":"","frontmatter":{},"headers":[],"relativePath":"index.md","filePath":"index.md"}'),s={name:"index.md"},i=n("",85),r=[i];function o(l,p,d,h,c,u){return e(),t("div",null,r)}const k=a(s,[["render",o]]);export{m as __pageData,k as default};
