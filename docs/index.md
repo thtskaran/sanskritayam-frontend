@@ -76,12 +76,6 @@ Alternatively, you can update to the latest release from PyPI using the followin
 pip install --upgrade sanskritayam
 ```
 
-## Documentation
-
-# Sanskritayam Language Documentation
-
-This document provides a detailed overview of the Sanskritayam programming language, including its syntax, keywords, and features.
-
 ## Syntax Mapping
 
 The following table maps Python syntax to the corresponding Sanskritayam syntax:
